@@ -47,14 +47,3 @@ A modern and minimal Expense Manager iOS app built using **SwiftUI**, focused on
 
 ---
 
-## 📸 Screenshots
-
-_Add your UI images here_
-
----
-
-## 🛠 Installation
-
-```bash
-git clone https://github.com/your-username/SuperWallet-iOS.git
-
