@@ -1,0 +1,25 @@
+{
+  "configurations" : [
+    {
+      "id" : "2AD9F782-BC21-4018-91A6-CE09520C2865",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "testTimeoutsEnabled" : true
+  },
+  "testTargets" : [
+    {
+      "parallelizable" : false,
+      "target" : {
+        "containerPath" : "container:ExpenseTracker.xcodeproj",
+        "identifier" : "ED73E0172DAF7E0300F2092A",
+        "name" : "ExpenseTrackerTests"
+      }
+    }
+  ],
+  "version" : 1
+}

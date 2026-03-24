@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>com.googleusercontent.apps.386570683339-k0d4fcdgvqr30ff4s8t7tsp281mfie7g</string>
+			</array>
+		</dict>
+	</array>
+    <key>UIAppFonts</key>
+    <array>
+        <string>Poppins-Bold.ttf</string>
+        <string>Poppins-ExtraBold.ttf</string>
+        <string>Poppins-Italic.ttf</string>
+        <string>Poppins-Light.ttf</string>
+        <string>Poppins-Medium.ttf</string>
+        <string>Poppins-Regular.ttf</string>
+        <string>Poppins-SemiBold.ttf</string>
+    </array>
+	<key>CLERK_PUBLISHABLE_KEY</key>
+	<string>$(CLERK_PUBLISHABLE_KEY)</string>
+	<key>GIDClientID</key>
+	<string>386570683339-k0d4fcdgvqr30ff4s8t7tsp281mfie7g.apps.googleusercontent.com</string>
+</dict>
+</plist>
